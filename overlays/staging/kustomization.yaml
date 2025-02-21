@@ -1,6 +1,7 @@
 namePrefix: staging-
 commonLabels:
   variant: staging
+  stage: dev
 bases:
 - ../../base
 patchesStrategicMerge:
